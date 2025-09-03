@@ -1,3 +1,8 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/793/mindpilot-mermaid-diagrams)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/793/mindpilot-mermaid-diagrams)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/793/mindpilot-mermaid-diagrams)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/793/mindpilot-mermaid-diagrams)
+
 # Mindpilot MCP
 [![GitHub Repo stars](https://img.shields.io/github/stars/abrinsmead/mindpilot-mcp)](https://github.com/abrinsmead/mindpilot-mcp)
 [![NPM Version](https://img.shields.io/npm/v/@mindpilot/mcp)](https://www.npmjs.com/package/@mindpilot/mcp)
